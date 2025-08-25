@@ -1,2 +1,2 @@
 # exercise-tiny-dataset
-a syntactic dataset with exercise and it video
+a Syntectic dataset with exercise and it video
